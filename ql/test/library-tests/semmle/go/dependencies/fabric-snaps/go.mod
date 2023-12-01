@@ -30,7 +30,7 @@ require (
 	golang.org/x/crypto v0.0.0-20181001203147-e3636079e1a4
 	golang.org/x/net v0.0.0-20181003013248-f5e5bdd77824
 	golang.org/x/tools v0.0.0-20181026183834-f60e5f99f081
-	google.golang.org/grpc v1.17.0
+	google.golang.org/grpc v1.56.3
 
 )
 
