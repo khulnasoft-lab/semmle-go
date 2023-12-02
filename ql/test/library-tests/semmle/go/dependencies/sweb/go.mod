@@ -24,7 +24,7 @@ replace golang.org/x/time => github.com/golang/time v0.0.0-20190308202827-9d24e8
 
 replace golang.org/x/oauth2 => github.com/golang/oauth2 v0.0.0-20190604053449-0f29369cfe45
 
-replace golang.org/x/lint => github.com/golang/lint v0.0.0-20190409202823-959b441ac422
+replace golang.org/x/lint => github.com/golang/lint 6edffad5e616
 
 replace google.golang.org/grpc => github.com/grpc/grpc-go v1.21.1
 
