@@ -1,7 +1,7 @@
 module github.com/clj/hrm-profile-tool
 
 require (
-	github.com/ajstarks/svgo v0.0.0-20180830174826-7338bd80e790
+	github.com/ajstarks/svgo 1546f124cd8b
 	github.com/clj/hrm-profile-tool/cmd/hrm v0.0.0
 	github.com/clj/hrm-profile-tool/instructions v0.0.0
 	github.com/clj/hrm-profile-tool/profile v0.0.0
