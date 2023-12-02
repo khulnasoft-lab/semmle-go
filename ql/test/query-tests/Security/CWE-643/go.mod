@@ -3,7 +3,7 @@ module main
 go 1.14
 
 require (
-	github.com/ChrisTrenkamp/goxpath v0.0.0-20190607011252-c5096ec8773d
+	github.com/ChrisTrenkamp/goxpath 97928f7e12b6
 	github.com/antchfx/htmlquery v1.2.2
 	github.com/antchfx/jsonquery v1.1.2
 	github.com/antchfx/xmlquery v1.3.1
