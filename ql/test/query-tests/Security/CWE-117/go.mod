@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/astaxie/beego v1.12.3
-	github.com/elazarl/goproxy v0.0.0-20211114080932-d06c3be7c11b
+	github.com/elazarl/goproxy 7cc037d33fb5
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/kr/text v0.2.0 // indirect
 	github.com/sirupsen/logrus v1.8.1
