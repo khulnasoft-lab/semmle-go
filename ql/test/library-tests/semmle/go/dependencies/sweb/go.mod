@@ -16,7 +16,7 @@ replace golang.org/x/sys => github.com/golang/sys v0.0.0-20190624142023-c5567b49
 
 replace cloud.google.com/go => github.com/googleapis/google-cloud-go v0.40.0
 
-replace google.golang.org/genproto => github.com/google/go-genproto v0.0.0-20190620144150-6af8c5fc6601
+replace google.golang.org/genproto => github.com/google/go-genproto 454cdb8f5daa
 
 replace golang.org/x/exp => github.com/golang/exp v0.0.0-20190510132918-efd6b22b2522
 
