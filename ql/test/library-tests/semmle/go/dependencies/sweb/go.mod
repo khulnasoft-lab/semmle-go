@@ -32,7 +32,7 @@ replace google.golang.org/api => github.com/googleapis/google-api-go-client v0.7
 
 replace google.golang.org/appengine => github.com/golang/appengine v1.6.1
 
-replace golang.org/x/mobile => github.com/golang/mobile v0.0.0-20190607214518-6fa95d984e88
+replace golang.org/x/mobile => github.com/golang/mobile 268e6c3a80d1
 
 replace golang.org/x/image => github.com/golang/image v0.0.0-20190622003408-7e034cad6442
 
